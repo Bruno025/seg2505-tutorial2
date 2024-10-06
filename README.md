@@ -23,3 +23,6 @@ Ce répertoire contient des fichiers relatifs au tutoriel 3 (Ajouter une liste d
 
 Ce répertoire contient des fichiers relatifs au tutoriel 4 (S'entraîner : associer un comportement à un clic (android.com))
 
+# Lien vers le dépot github
+
+https://github.com/Bruno025/seg2505-tutorial2
