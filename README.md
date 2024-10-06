@@ -26,3 +26,8 @@ Ce répertoire contient des fichiers relatifs au tutoriel 4 (S'entraîner : asso
 # Lien vers le dépot github
 
 https://github.com/Bruno025/seg2505-tutorial2
+
+# NB:
+
+Certaines parties de ces fichiers ont été inspirées du compte Github « Formation des développeurs Google »
+https://github.com/google-developer-training
